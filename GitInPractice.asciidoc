@@ -1,2 +1,2 @@
-GitInPractice.asciidoc
+Removing line and replacing with this.
 Add this line.
