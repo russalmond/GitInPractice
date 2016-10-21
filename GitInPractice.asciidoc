@@ -1,3 +1,6 @@
 Modifying this file again for fetch test.
 Removing a line here and replacing with this.
 Add this line.
+
+Chapter 2.
+This is the merge test found in chapter 2.
